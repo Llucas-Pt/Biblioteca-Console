@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Found\\Documents\\Codar - Projecto C#\\Project Basic\\Biblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7896B931-D064-4D2A-B5CB-28E33DC282C0}|Biblioteca\\Biblioteca.csproj|c:\\users\\found\\documents\\codar - projecto c#\\project basic\\biblioteca\\biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7896B931-D064-4D2A-B5CB-28E33DC282C0}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7896B931-D064-4D2A-B5CB-28E33DC282C0}|Biblioteca\\Biblioteca.csproj|c:\\users\\found\\documents\\codar - projecto c#\\project basic\\biblioteca\\biblioteca\\modelo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7896B931-D064-4D2A-B5CB-28E33DC282C0}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\modelo\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7896B931-D064-4D2A-B5CB-28E33DC282C0}|Biblioteca\\Biblioteca.csproj|c:\\users\\found\\documents\\codar - projecto c#\\project basic\\biblioteca\\biblioteca\\service\\emprestimoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7896B931-D064-4D2A-B5CB-28E33DC282C0}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\service\\emprestimoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7896B931-D064-4D2A-B5CB-28E33DC282C0}|Biblioteca\\Biblioteca.csproj|c:\\users\\found\\documents\\codar - projecto c#\\project basic\\biblioteca\\biblioteca\\repositorio\\repositorioemprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7896B931-D064-4D2A-B5CB-28E33DC282C0}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\repositorio\\repositorioemprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7896B931-D064-4D2A-B5CB-28E33DC282C0}|Biblioteca\\Biblioteca.csproj|c:\\users\\found\\documents\\codar - projecto c#\\project basic\\biblioteca\\biblioteca\\repositorio\\repositoriousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7896B931-D064-4D2A-B5CB-28E33DC282C0}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\repositorio\\repositoriousuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7896B931-D064-4D2A-B5CB-28E33DC282C0}|Biblioteca\\Biblioteca.csproj|c:\\users\\found\\documents\\codar - projecto c#\\project basic\\biblioteca\\biblioteca\\repositorio\\repositoriolivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7896B931-D064-4D2A-B5CB-28E33DC282C0}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\repositorio\\repositoriolivro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7896B931-D064-4D2A-B5CB-28E33DC282C0}|Biblioteca\\Biblioteca.csproj|c:\\users\\found\\documents\\codar - projecto c#\\project basic\\biblioteca\\biblioteca\\modelo\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7896B931-D064-4D2A-B5CB-28E33DC282C0}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\modelo\\emprestimo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7896B931-D064-4D2A-B5CB-28E33DC282C0}|Biblioteca\\Biblioteca.csproj|c:\\users\\found\\documents\\codar - projecto c#\\project basic\\biblioteca\\biblioteca\\modelo\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7896B931-D064-4D2A-B5CB-28E33DC282C0}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\modelo\\livro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7896B931-D064-4D2A-B5CB-28E33DC282C0}|Biblioteca\\Biblioteca.csproj|c:\\users\\found\\documents\\codar - projecto c#\\project basic\\biblioteca\\biblioteca\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7896B931-D064-4D2A-B5CB-28E33DC282C0}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\enums\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7896B931-D064-4D2A-B5CB-28E33DC282C0}|Biblioteca\\Biblioteca.csproj|c:\\users\\found\\documents\\codar - projecto c#\\project basic\\biblioteca\\biblioteca\\enums\\tipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7896B931-D064-4D2A-B5CB-28E33DC282C0}|Biblioteca\\Biblioteca.csproj|solutionrelative:biblioteca\\enums\\tipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\Found\\Documents\\Codar - Projecto C#\\Project Basic\\Biblioteca\\Biblioteca\\Enums\\Status.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Enums\\Status.cs",
+              "ToolTip": "C:\\Users\\Found\\Documents\\Codar - Projecto C#\\Project Basic\\Biblioteca\\Biblioteca\\Enums\\Status.cs",
+              "RelativeToolTip": "Biblioteca\\Enums\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T09:26:52.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Found\\Documents\\Codar - Projecto C#\\Project Basic\\Biblioteca\\Biblioteca\\Program.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Program.cs",
+              "ToolTip": "C:\\Users\\Found\\Documents\\Codar - Projecto C#\\Project Basic\\Biblioteca\\Biblioteca\\Program.cs",
+              "RelativeToolTip": "Biblioteca\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvx8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T18:13:03.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmprestimoService.cs",
+              "DocumentMoniker": "C:\\Users\\Found\\Documents\\Codar - Projecto C#\\Project Basic\\Biblioteca\\Biblioteca\\Service\\EmprestimoService.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Service\\EmprestimoService.cs",
+              "ToolTip": "C:\\Users\\Found\\Documents\\Codar - Projecto C#\\Project Basic\\Biblioteca\\Biblioteca\\Service\\EmprestimoService.cs",
+              "RelativeToolTip": "Biblioteca\\Service\\EmprestimoService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T22:01:40.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RepositorioEmprestimo.cs",
+              "DocumentMoniker": "C:\\Users\\Found\\Documents\\Codar - Projecto C#\\Project Basic\\Biblioteca\\Biblioteca\\Repositorio\\RepositorioEmprestimo.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Repositorio\\RepositorioEmprestimo.cs",
+              "ToolTip": "C:\\Users\\Found\\Documents\\Codar - Projecto C#\\Project Basic\\Biblioteca\\Biblioteca\\Repositorio\\RepositorioEmprestimo.cs",
+              "RelativeToolTip": "Biblioteca\\Repositorio\\RepositorioEmprestimo.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAwwEYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T22:00:19.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RepositorioLivro.cs",
+              "DocumentMoniker": "C:\\Users\\Found\\Documents\\Codar - Projecto C#\\Project Basic\\Biblioteca\\Biblioteca\\Repositorio\\RepositorioLivro.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Repositorio\\RepositorioLivro.cs",
+              "ToolTip": "C:\\Users\\Found\\Documents\\Codar - Projecto C#\\Project Basic\\Biblioteca\\Biblioteca\\Repositorio\\RepositorioLivro.cs",
+              "RelativeToolTip": "Biblioteca\\Repositorio\\RepositorioLivro.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAUwCkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T20:00:42.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RepositorioUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Found\\Documents\\Codar - Projecto C#\\Project Basic\\Biblioteca\\Biblioteca\\Repositorio\\RepositorioUsuario.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Repositorio\\RepositorioUsuario.cs",
+              "ToolTip": "C:\\Users\\Found\\Documents\\Codar - Projecto C#\\Project Basic\\Biblioteca\\Biblioteca\\Repositorio\\RepositorioUsuario.cs",
+              "RelativeToolTip": "Biblioteca\\Repositorio\\RepositorioUsuario.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAiwD8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T18:14:15.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Emprestimo.cs",
+              "DocumentMoniker": "C:\\Users\\Found\\Documents\\Codar - Projecto C#\\Project Basic\\Biblioteca\\Biblioteca\\Modelo\\Emprestimo.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Modelo\\Emprestimo.cs",
+              "ToolTip": "C:\\Users\\Found\\Documents\\Codar - Projecto C#\\Project Basic\\Biblioteca\\Biblioteca\\Modelo\\Emprestimo.cs",
+              "RelativeToolTip": "Biblioteca\\Modelo\\Emprestimo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T19:41:26.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Tipo.cs",
+              "DocumentMoniker": "C:\\Users\\Found\\Documents\\Codar - Projecto C#\\Project Basic\\Biblioteca\\Biblioteca\\Enums\\Tipo.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Enums\\Tipo.cs",
+              "ToolTip": "C:\\Users\\Found\\Documents\\Codar - Projecto C#\\Project Basic\\Biblioteca\\Biblioteca\\Enums\\Tipo.cs",
+              "RelativeToolTip": "Biblioteca\\Enums\\Tipo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T19:31:40.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Livro.cs",
+              "DocumentMoniker": "C:\\Users\\Found\\Documents\\Codar - Projecto C#\\Project Basic\\Biblioteca\\Biblioteca\\Modelo\\Livro.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Modelo\\Livro.cs",
+              "ToolTip": "C:\\Users\\Found\\Documents\\Codar - Projecto C#\\Project Basic\\Biblioteca\\Biblioteca\\Modelo\\Livro.cs",
+              "RelativeToolTip": "Biblioteca\\Modelo\\Livro.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T19:24:04.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Found\\Documents\\Codar - Projecto C#\\Project Basic\\Biblioteca\\Biblioteca\\Modelo\\Usuario.cs",
+              "RelativeDocumentMoniker": "Biblioteca\\Modelo\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Found\\Documents\\Codar - Projecto C#\\Project Basic\\Biblioteca\\Biblioteca\\Modelo\\Usuario.cs",
+              "RelativeToolTip": "Biblioteca\\Modelo\\Usuario.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T21:26:48.677Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

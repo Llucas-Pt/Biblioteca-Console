@@ -5,9 +5,11 @@ Baixe e instale o **PostgreSQL (versão 17)**.
 
 ### 2️⃣ Criação do Banco
 
+```sql
+-- Banco de dados Biblioteca
 CREATE DATABASE Biblioteca;
 
-### 2️⃣ Criação das Tabelas
+
 
 -- Tabela de Livros
 CREATE TABLE livro (
